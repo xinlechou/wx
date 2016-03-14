@@ -1,0 +1,447 @@
+2016-02-23 21:30:09
+
+REMOTE_ADDR:140.207.54.79Unknown IP
+2016-02-23 21:30:09QUERY_STRING:signature=771517b9c77a2e304f79741e505b1306435b2433&timestamp=1456234279&nonce=356561684
+2016-02-23 21:30:10T 
+start
+2016-02-23 21:30:10T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('','','','subscribe','重新关注了新乐筹','','','','','','','1456234210','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6Chjm6pFVqCgjjLMu8cqV_Gr-Q","CreateTime":"1456234279","MsgType":"event","Event":"subscribe","EventKey":{}}')
+2016-02-23 21:30:10T 
+<xml>
+    <ToUserName><![CDATA[ou6Chjm6pFVqCgjjLMu8cqV_Gr-Q]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456234210</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[感谢关注新乐筹，祝您在2016年梦想成真！
+回复1：查看往期驻京办项目；回复2：精彩众筹项目推荐；回复3：专题推荐]]></Content>
+</xml>
+2016-02-23 21:40:20
+
+REMOTE_ADDR:140.207.54.77Unknown IP
+2016-02-23 21:40:20QUERY_STRING:signature=2a6d0156a7b6887681704d3964162c54e92e63d7&timestamp=1456234889&nonce=338447136
+2016-02-23 21:40:20T 
+start
+2016-02-23 21:40:20T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjjvzAoxgrCexx1Tkz6aI1iw','赵小赵','http://wx.qlogo.cn/mmopen/PiajxSqBRaEJfYs60tHS5pUIE2W74z0fuAVsWeicG6q48IAqXnic4kImicvJTGtdaBwpibtMDGg4ib3o1hjC7LicRmHqA/0','subscribe','赵小赵关注了新乐筹','','','','','','','1456234820','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjjvzAoxgrCexx1Tkz6aI1iw","CreateTime":"1456234889","MsgType":"event","Event":"subscribe","EventKey":{}}')
+2016-02-23 21:40:20T 
+<xml>
+    <ToUserName><![CDATA[ou6ChjjvzAoxgrCexx1Tkz6aI1iw]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456234820</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[感谢关注新乐筹，祝您在2016年梦想成真！
+回复1：查看往期驻京办项目；回复2：精彩众筹项目推荐；回复3：专题推荐]]></Content>
+</xml>
+2016-02-23 21:40:56
+
+REMOTE_ADDR:140.207.54.76Unknown IP
+2016-02-23 21:40:56QUERY_STRING:signature=bcdca5d750450535543c381fc236a32c39ce8a01&timestamp=1456234925&nonce=661890878
+2016-02-23 21:40:56T 
+start
+2016-02-23 21:40:56T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjjvzAoxgrCexx1Tkz6aI1iw','赵小赵','http://wx.qlogo.cn/mmopen/PiajxSqBRaEJfYs60tHS5pUIE2W74z0fuAVsWeicG6q48IAqXnic4kImicvJTGtdaBwpibtMDGg4ib3o1hjC7LicRmHqA/0','image','图片','http://mmbiz.qpic.cn/mmbiz/IiaeI1GzCriaAltQPevFabDeChxq0J5ehQjJicYZRmUicv8aQSgia6eHNjugA2mFKcudQcaiaKX49eIqKy346DKN4J7w/0','','','','6254481374274365228','','1456234856','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjjvzAoxgrCexx1Tkz6aI1iw","CreateTime":"1456234924","MsgType":"image","PicUrl":"http:\/\/mmbiz.qpic.cn\/mmbiz\/IiaeI1GzCriaAltQPevFabDeChxq0J5ehQjJicYZRmUicv8aQSgia6eHNjugA2mFKcudQcaiaKX49eIqKy346DKN4J7w\/0","MsgId":"6254481374274365228","MediaId":"11Yjjhhivo32eL7VpfJoDFge4P_tr6MUkZuLoZwHeTtBpkTbd6bjEaPcDUPcSDTP"}')
+2016-02-23 21:40:56T 
+<xml>
+    <ToUserName><![CDATA[ou6ChjjvzAoxgrCexx1Tkz6aI1iw]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456234856</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[已收到您的图片！]]></Content>
+</xml>
+2016-02-23 22:03:56
+
+REMOTE_ADDR:140.207.54.75Unknown IP
+2016-02-23 22:03:56QUERY_STRING:signature=efdd63f0582dc68db6ec6a13ac63f7bf7c877493&timestamp=1456236305&nonce=955935371
+2016-02-23 22:03:56T 
+start
+2016-02-23 22:03:56T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjiaGd4Iczc455Pzj-y7YQpA','放放','http://wx.qlogo.cn/mmopen/1LFoRs2ibVe7EcSHHv1fW3qsia1Rg3iaUut0DdW3StkAZW33bImDtV5oRJNKX7AicPUsSHZYcj6thzhVABUH6VCJPOhA5rE0tMvx/0','subscribe','放放关注了新乐筹','','','','','','','1456236236','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjiaGd4Iczc455Pzj-y7YQpA","CreateTime":"1456236305","MsgType":"event","Event":"subscribe","EventKey":{}}')
+2016-02-23 22:03:56T 
+<xml>
+    <ToUserName><![CDATA[ou6ChjiaGd4Iczc455Pzj-y7YQpA]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456236236</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[感谢关注新乐筹，祝您在2016年梦想成真！
+回复1：查看往期驻京办项目；回复2：精彩众筹项目推荐；回复3：专题推荐]]></Content>
+</xml>
+2016-02-23 22:04:06
+
+REMOTE_ADDR:140.207.54.74Unknown IP
+2016-02-23 22:04:06QUERY_STRING:signature=9549bff34b9767e9bef8e3404c747c69d790e593&timestamp=1456236316&nonce=58005700
+2016-02-23 22:04:07T 
+start
+2016-02-23 22:04:07T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjiaGd4Iczc455Pzj-y7YQpA','放放','http://wx.qlogo.cn/mmopen/1LFoRs2ibVe7EcSHHv1fW3qsia1Rg3iaUut0DdW3StkAZW33bImDtV5oRJNKX7AicPUsSHZYcj6thzhVABUH6VCJPOhA5rE0tMvx/0','VIEW','跳转到http://www.xinlechou.com/index.php?ctl=deals','','','','','','','1456236247','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjiaGd4Iczc455Pzj-y7YQpA","CreateTime":"1456236316","MsgType":"event","Event":"VIEW","EventKey":"http:\/\/www.xinlechou.com\/index.php?ctl=deals","MenuId":"401221480"}')
+2016-02-23 22:04:07T 
+
+2016-02-23 22:07:24
+
+REMOTE_ADDR:140.207.54.75Unknown IP
+2016-02-23 22:07:24QUERY_STRING:signature=c77656f2fc273f4d48d8f6e79abb9a6b995c0903&timestamp=1456236513&nonce=400316559
+2016-02-23 22:07:24T 
+start
+2016-02-23 22:07:24T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjiaGd4Iczc455Pzj-y7YQpA','放放','http://wx.qlogo.cn/mmopen/1LFoRs2ibVe7EcSHHv1fW3qsia1Rg3iaUut0DdW3StkAZW33bImDtV5oRJNKX7AicPUsSHZYcj6thzhVABUH6VCJPOhA5rE0tMvx/0','image','图片','http://mmbiz.qpic.cn/mmbiz/sFY3gaTCtUDckg5p6ABDz9BFvOibuZyia9KFAEaGic3ehw2hgq3WkdPicpvU9GkHhJOp9wE2PM4EyJcWDTIVrXMBVw/0','','','','6254488194682433169','','1456236444','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjiaGd4Iczc455Pzj-y7YQpA","CreateTime":"1456236512","MsgType":"image","PicUrl":"http:\/\/mmbiz.qpic.cn\/mmbiz\/sFY3gaTCtUDckg5p6ABDz9BFvOibuZyia9KFAEaGic3ehw2hgq3WkdPicpvU9GkHhJOp9wE2PM4EyJcWDTIVrXMBVw\/0","MsgId":"6254488194682433169","MediaId":"VIo9waUuW_Lz2-TKXeUoFM4Yk7v7M1HuyyThsqVRfkkJdmlWpTCWieMH3SVCKFQm"}')
+2016-02-23 22:07:24T 
+<xml>
+    <ToUserName><![CDATA[ou6ChjiaGd4Iczc455Pzj-y7YQpA]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456236444</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[已收到您的图片！]]></Content>
+</xml>
+2016-02-24 07:22:39
+
+REMOTE_ADDR:140.207.54.79Unknown IP
+2016-02-24 07:22:39QUERY_STRING:signature=e4550ef1287855eec95a4bee7350b1ea6df7f1dd&timestamp=1456269828&nonce=1401237683
+2016-02-24 07:22:39T 
+start
+2016-02-24 07:22:39T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjvmhcsrNHtEXjj6y_Q6CHTM','张钰','http://wx.qlogo.cn/mmopen/6t0VDe9bl5eqJ65J0x7j7sgpLYgibaxEWib5agJS7VH3Nn7ujEwYvaAFtiattXXYK8SaeZZMFeZaKQycR8GICyd0Q/0','subscribe','张钰关注了新乐筹','','','','','','','1456269759','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjvmhcsrNHtEXjj6y_Q6CHTM","CreateTime":"1456269828","MsgType":"event","Event":"subscribe","EventKey":{}}')
+2016-02-24 07:22:39T 
+<xml>
+    <ToUserName><![CDATA[ou6ChjvmhcsrNHtEXjj6y_Q6CHTM]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456269759</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[感谢关注新乐筹，祝您在2016年梦想成真！
+回复1：查看往期驻京办项目；回复2：精彩众筹项目推荐；回复3：专题推荐]]></Content>
+</xml>
+2016-02-24 07:54:53
+
+REMOTE_ADDR:140.207.54.79Unknown IP
+2016-02-24 07:54:53QUERY_STRING:signature=db0cee91ecaa3b630ac8adaac31f4790db9cc0a3&timestamp=1456271762&nonce=330191918
+2016-02-24 07:54:53T 
+start
+2016-02-24 07:54:53T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjmT9Jtc0O-lpVyEMnyn51iE','隔壁老杨','http://wx.qlogo.cn/mmopen/wZsJQUCyE1m8J8zgoxbIZb3DwYykYBicJWqiba9G3PKq9wnbibbJIlB6BzzkOfAAgIxdJ7oKL0uX9zXDZdILIZjXZZtx4eAB3Fg/0','VIEW','跳转到http://www.xinlechou.com','','','','','','','1456271693','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjmT9Jtc0O-lpVyEMnyn51iE","CreateTime":"1456271762","MsgType":"event","Event":"VIEW","EventKey":"http:\/\/www.xinlechou.com","MenuId":"401221480"}')
+2016-02-24 07:54:53T 
+
+2016-02-24 07:59:17
+
+REMOTE_ADDR:140.207.54.80Unknown IP
+2016-02-24 07:59:17QUERY_STRING:signature=2f13ecc3792c01e238d9d11f557d836496294f5a&timestamp=1456272027&nonce=2016103491
+2016-02-24 07:59:18T 
+start
+2016-02-24 07:59:18T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('','','','CLICK','点击了menu_3_7','','','','','','','1456271958','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6Chjm6pFVqCgjjLMu8cqV_Gr-Q","CreateTime":"1456272027","MsgType":"event","Event":"CLICK","EventKey":"menu_3_7"}')
+2016-02-24 07:59:18T 
+<xml>
+    <ToUserName><![CDATA[ou6Chjm6pFVqCgjjLMu8cqV_Gr-Q]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456271958</CreateTime>
+    <MsgType><![CDATA[news]]></MsgType>
+    <ArticleCount>2</ArticleCount>
+    <Articles>
+
+        <item>
+            <Title><![CDATA[大学生，你们准备好了嘛！！]]></Title>
+            <Description><![CDATA[大学生，你们准备好了嘛！！]]></Description>
+            <PicUrl><![CDATA[http://www.xinlechou.com/public/attachment/201601/05/18/568b97d2aed83.jpg]]></PicUrl>
+            <Url><![CDATA[http://www.xinlechou.com/topic/zhishangpc/index.html]]></Url>
+        </item>
+
+        <item>
+            <Title><![CDATA[那些2015年末美好的愿望，2016将继续前行...]]></Title>
+            <Description><![CDATA[那些2015年末美好的愿望，2016将继续前行...]]></Description>
+            <PicUrl><![CDATA[http://www.xinlechou.com/public/attachment/201512/28/20/568126f4057d2.png]]></PicUrl>
+            <Url><![CDATA[http://www.xinlechou.com/topic/yuandan/index.html]]></Url>
+        </item>
+    </Articles>
+</xml>
+2016-02-24 07:59:18
+
+REMOTE_ADDR:101.226.66.172 FROM WeiXin
+2016-02-24 07:59:18QUERY_STRING:
+2016-02-24 07:59:26
+
+REMOTE_ADDR:140.207.54.79Unknown IP
+2016-02-24 07:59:26QUERY_STRING:signature=cb7b95b30d53265b6c34803b8d445471de98a910&timestamp=1456272036&nonce=50916274
+2016-02-24 07:59:27T 
+start
+2016-02-24 07:59:27T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('','','','VIEW','跳转到http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzA5NjIxMTc5MQ==#wechat_webview_type=1&wechat_redirect','','','','','','','1456271967','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6Chjm6pFVqCgjjLMu8cqV_Gr-Q","CreateTime":"1456272036","MsgType":"event","Event":"VIEW","EventKey":"http:\/\/mp.weixin.qq.com\/mp\/getmasssendmsg?__biz=MzA5NjIxMTc5MQ==#wechat_webview_type=1&wechat_redirect","MenuId":"401221480"}')
+2016-02-24 07:59:27T 
+
+2016-02-24 07:59:38
+
+REMOTE_ADDR:140.207.54.77Unknown IP
+2016-02-24 07:59:38QUERY_STRING:signature=6e5aefe68c778c3c35cb0ba4679f786408f21d8d&timestamp=1456272047&nonce=1324741450
+2016-02-24 07:59:38T 
+start
+2016-02-24 07:59:38T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('','','','VIEW','跳转到http://www.xinlechou.com/index.php?ctl=account','','','','','','','1456271978','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6Chjm6pFVqCgjjLMu8cqV_Gr-Q","CreateTime":"1456272047","MsgType":"event","Event":"VIEW","EventKey":"http:\/\/www.xinlechou.com\/index.php?ctl=account","MenuId":"401221480"}')
+2016-02-24 07:59:38T 
+
+2016-02-24 07:59:59
+
+REMOTE_ADDR:140.207.54.79Unknown IP
+2016-02-24 07:59:59QUERY_STRING:signature=2f16993ee103ec0cac830ea2f6b0e0d495fba6c6&timestamp=1456272069&nonce=1509773732
+2016-02-24 08:00:00T 
+start
+2016-02-24 08:00:00T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6Chjm6pFVqCgjjLMu8cqV_Gr-Q','','','unsubscribe','','','','','','','','1456272000','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6Chjm6pFVqCgjjLMu8cqV_Gr-Q","CreateTime":"1456272069","MsgType":"event","Event":"unsubscribe","EventKey":{}}')
+2016-02-24 08:00:00T 
+
+2016-02-24 12:14:42
+
+REMOTE_ADDR:140.207.54.73Unknown IP
+2016-02-24 12:14:42QUERY_STRING:signature=06369bab51c54459b88a6f65865e749909260c3c&timestamp=1456287352&nonce=165457769
+2016-02-24 12:14:43T 
+start
+2016-02-24 12:14:43T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjiaGd4Iczc455Pzj-y7YQpA','放放','http://wx.qlogo.cn/mmopen/1LFoRs2ibVe7EcSHHv1fW3qsia1Rg3iaUut0DdW3StkAZW33bImDtV5oRJNKX7AicPUsSHZYcj6thzhVABUH6VCJPOhA5rE0tMvx/0','CLICK','点击了menu_3_12','','','','','','','1456287283','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjiaGd4Iczc455Pzj-y7YQpA","CreateTime":"1456287352","MsgType":"event","Event":"CLICK","EventKey":"menu_3_12"}')
+2016-02-24 12:14:43T 
+<xml>
+    <ToUserName><![CDATA[ou6ChjiaGd4Iczc455Pzj-y7YQpA]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456287283</CreateTime>
+    <MsgType><![CDATA[news]]></MsgType>
+    <ArticleCount>3</ArticleCount>
+    <Articles>
+
+        <item>
+            <Title><![CDATA[吃遍驻京办之贵州篇]]></Title>
+            <Description><![CDATA[吃遍驻京办之贵州篇吃遍驻京办之贵州篇吃遍驻京办之贵州篇吃遍驻京办之贵州篇吃遍驻京办之贵州篇]]></Description>
+            <PicUrl><![CDATA[http://www.xinlechou.com/public/attachment/201512/31/12/b414e195563a74d6f1f1cc1f1d1564e573.jpg]]></PicUrl>
+            <Url><![CDATA[http://www.xinlechou.com/index.php?ctl=deal&act=show&id=209]]></Url>
+        </item>
+
+        <item>
+            <Title><![CDATA[吃遍驻京办之湖南篇]]></Title>
+            <Description><![CDATA[吃遍驻京办之湖南篇
+吃遍驻京办之湖南篇
+吃遍驻京办之湖南篇
+吃遍驻京办之湖南篇]]></Description>
+            <PicUrl><![CDATA[http://www.xinlechou.com/public/attachment/201511/19/16/42c3e886b3accc837874f8170bebb97399.jpg]]></PicUrl>
+            <Url><![CDATA[http://www.xinlechou.com/index.php?ctl=deal&act=show&id=93]]></Url>
+        </item>
+
+        <item>
+            <Title><![CDATA[吃遍驻京办之海南篇]]></Title>
+            <Description><![CDATA[吃遍驻京办之海南篇吃遍驻京办之海南篇吃遍驻京办之海南篇吃遍驻京办之海南篇吃遍驻京办之海南篇]]></Description>
+            <PicUrl><![CDATA[http://www.xinlechou.com/public/attachment/201512/10/14/3ae3736e69d8137ef539f745fa6f0a4646.jpg]]></PicUrl>
+            <Url><![CDATA[http://www.xinlechou.com/index.php?ctl=deal&act=show&id=142]]></Url>
+        </item>
+    </Articles>
+</xml>
+2016-02-24 14:34:50
+
+REMOTE_ADDR:140.207.54.77Unknown IP
+2016-02-24 14:34:50QUERY_STRING:signature=b3ffcbfd91a7084ff67232e202375cfd86f71ab0&timestamp=1456295760&nonce=835450095
+2016-02-24 14:34:51T 
+start
+2016-02-24 14:34:51T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjjSs7-1DkAs0NAoDsrloQ0c','大乐','http://wx.qlogo.cn/mmopen/ajNVdqHZLLBTduG7yWCYtRBibK0y1qpfS26Ut61gNhwmfiaibQrb9V3rGleCxiaMhnficjZm7fe9fLSns8cT46ZPoFQ/0','subscribe','大乐关注了新乐筹','','','','','','','1456295691','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjjSs7-1DkAs0NAoDsrloQ0c","CreateTime":"1456295760","MsgType":"event","Event":"subscribe","EventKey":{}}')
+2016-02-24 14:34:51T 
+<xml>
+    <ToUserName><![CDATA[ou6ChjjSs7-1DkAs0NAoDsrloQ0c]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456295691</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[感谢关注新乐筹，祝您在2016年梦想成真！
+回复1：查看往期驻京办项目；回复2：精彩众筹项目推荐；回复3：专题推荐]]></Content>
+</xml>
+2016-02-24 16:12:47
+
+REMOTE_ADDR:140.207.54.75Unknown IP
+2016-02-24 16:12:47QUERY_STRING:signature=16f8ba12e540859bfb2ed6e62976073b4210c9b1&timestamp=1456301636&nonce=1078055666
+2016-02-24 16:12:47T 
+start
+2016-02-24 16:12:47T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjqPWSaXAajjWGov1N3JbIMQ','yu','http://wx.qlogo.cn/mmopen/PiajxSqBRaELB4MO29JPCMGpulRDeE84bjjEsVY86bsh0VwhNibhw9DLdmxJV9LqYBIkJafBH9PMGJ0JPX7fluTA/0','unsubscribe','yu取消关注了新乐筹','','','','','','','1456301567','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjqPWSaXAajjWGov1N3JbIMQ","CreateTime":"1456301636","MsgType":"event","Event":"unsubscribe","EventKey":{}}')
+2016-02-24 16:12:47T 
+
+2016-02-24 18:16:50
+
+REMOTE_ADDR:140.207.54.75Unknown IP
+2016-02-24 18:16:50QUERY_STRING:signature=d5a6a524587ba8eff57e1f5c3d9d6511f72657ac&timestamp=1456309080&nonce=727677835
+2016-02-24 18:16:51T 
+start
+2016-02-24 18:16:51T 
+INSERT INTO xlc_wechat_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('oT3GMuOFGsBHtSkMdlx8rKegVn7Q','daisy','http://wx.qlogo.cn/mmopen/EBiafCLDCdJarfyQRjoG6MoPfsHeC2TPbNbHPYhpsnnRHOdUhb1XGDX8ibLZiaIbjYjkQHYNaIGbc2mqegOngl6QJwmmJYWdvOc/0','subscribe','daisy关注了新乐筹','','','','','','','1456309011','','','','{"ToUserName":"gh_402a958dc563","FromUserName":"oT3GMuOFGsBHtSkMdlx8rKegVn7Q","CreateTime":"1456309080","MsgType":"event","Event":"subscribe","EventKey":{}}')
+2016-02-24 18:16:51T 
+<xml>
+    <ToUserName><![CDATA[oT3GMuOFGsBHtSkMdlx8rKegVn7Q]]></ToUserName>
+    <FromUserName><![CDATA[gh_402a958dc563]]></FromUserName>
+    <CreateTime>1456309011</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[感谢关注新乐筹，祝您在2016年梦想成真！
+回复以下关键词，即可查询相应信息
+
+【1】往期驻京办活动
+【2】最新众筹项目推荐
+【3】精彩专题等你来
+
+点击菜单栏，会有更多惊喜！]]></Content>
+</xml>
+2016-02-24 19:03:31
+
+REMOTE_ADDR:140.207.54.79Unknown IP
+2016-02-24 19:03:31QUERY_STRING:signature=d6f3c28051cf92f97d0c47f7b9956b7d0da0df86&timestamp=1456311881&nonce=92354222
+2016-02-24 19:03:32T 
+start
+2016-02-24 19:03:32T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjioHPJAIg4ytaa51zb2tb60','','','MASSSENDJOBFINISH','','','','','','','','1456311812','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjioHPJAIg4ytaa51zb2tb60","CreateTime":"1456311881","MsgType":"event","Event":"MASSSENDJOBFINISH","MsgID":"401332403","Status":"send success","TotalCount":"976","FilterCount":"976","SentCount":"976","ErrorCount":"0"}')
+2016-02-24 19:03:32T 
+
+2016-02-24 19:17:43
+
+REMOTE_ADDR:140.207.54.79Unknown IP
+2016-02-24 19:17:43QUERY_STRING:signature=611f164e8d98783e80740a72b63040ada44ac435&timestamp=1456312732&nonce=291898889
+2016-02-24 19:17:43T 
+start
+2016-02-24 19:17:43T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjtXa-RXWRHP7iSClzPt6kxw','张帆','http://wx.qlogo.cn/mmopen/PiajxSqBRaELWpgrqKJZ9VkZMXuTjFbZlDyUBTtSRlOd76SkpnVmibop38vZvwsaetU5T8dlY06hAZfUX4oNVKfQ/0','VIEW','跳转到http://mp.weixin.qq.com/mp/getmasssendmsg?__biz=MzA5NjIxMTc5MQ==#wechat_webview_type=1&wechat_redirect','','','','','','','1456312663','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjtXa-RXWRHP7iSClzPt6kxw","CreateTime":"1456312732","MsgType":"event","Event":"VIEW","EventKey":"http:\/\/mp.weixin.qq.com\/mp\/getmasssendmsg?__biz=MzA5NjIxMTc5MQ==#wechat_webview_type=1&wechat_redirect","MenuId":"401221480"}')
+2016-02-24 19:17:43T 
+
+2016-02-24 20:24:08
+
+REMOTE_ADDR:140.207.54.75Unknown IP
+2016-02-24 20:24:08QUERY_STRING:signature=addee578dbbfe7eb184ac323e062f3eaf7f8439c&timestamp=1456316718&nonce=1341081993
+2016-02-24 20:24:09T 
+start
+2016-02-24 20:24:09T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjuSUAiLA0v1uvs3eI_gwRJo','sunshine','http://wx.qlogo.cn/mmopen/Q9HlgIfswe0PlZNpf2XOLJ8Ceu5iaCEraNnYy2neVLEiaKtL8RJNFKBxiaLcvKojZZu5JVEcc2Sswy6w8cSFIRoademPLp9F9ju/0','subscribe','sunshine关注了新乐筹','','','','','','','1456316649','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjuSUAiLA0v1uvs3eI_gwRJo","CreateTime":"1456316718","MsgType":"event","Event":"subscribe","EventKey":{}}')
+2016-02-24 20:24:09T 
+<xml>
+    <ToUserName><![CDATA[ou6ChjuSUAiLA0v1uvs3eI_gwRJo]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456316649</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[感谢关注新乐筹，祝您在2016年梦想成真！
+回复1：查看往期驻京办项目；回复2：精彩众筹项目推荐；回复3：专题推荐]]></Content>
+</xml>
+2016-02-24 21:38:22
+
+REMOTE_ADDR:140.207.54.76Unknown IP
+2016-02-24 21:38:22QUERY_STRING:signature=031fdd17ddb85794daa3387c8783a5ad92cf037a&timestamp=1456321172&nonce=418161071
+2016-02-24 21:38:23T 
+start
+2016-02-24 21:38:23T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjhMjje01pOhYFA-pVmk0BeI','淽溆','http://wx.qlogo.cn/mmopen/6t0VDe9bl5dUXmHrApHCpbXqEFvtJYfw23hgdx0A6C8MVLMwPqUFX9k1fZWBVmJxEmiaY0A37M9E4W4So0j4CqqHyFsic1mc7p/0','subscribe','淽溆重新关注了新乐筹','','','','','','','1456321103','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjhMjje01pOhYFA-pVmk0BeI","CreateTime":"1456321172","MsgType":"event","Event":"subscribe","EventKey":{}}')
+2016-02-24 21:38:23T 
+<xml>
+    <ToUserName><![CDATA[ou6ChjhMjje01pOhYFA-pVmk0BeI]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456321103</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[感谢关注新乐筹，祝您在2016年梦想成真！
+回复1：查看往期驻京办项目；回复2：精彩众筹项目推荐；回复3：专题推荐]]></Content>
+</xml>
+2016-02-25 10:12:04
+
+REMOTE_ADDR:140.207.54.79Unknown IP
+2016-02-25 10:12:04QUERY_STRING:signature=584b9255aede9d3cc490975cd67effdca9f713cd&timestamp=1456366395&nonce=263548722
+2016-02-25 10:12:05T 
+start
+2016-02-25 10:12:05T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6Chjlog2T_rCpEKiaWYsspN_mE','烟花明媚','','subscribe','烟花明媚关注了新乐筹','','','','','','','1456366325','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6Chjlog2T_rCpEKiaWYsspN_mE","CreateTime":"1456366395","MsgType":"event","Event":"subscribe","EventKey":{}}')
+2016-02-25 10:12:05T 
+<xml>
+    <ToUserName><![CDATA[ou6Chjlog2T_rCpEKiaWYsspN_mE]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456366325</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[感谢关注新乐筹，祝您在2016年梦想成真！
+回复1：查看往期驻京办项目；回复2：精彩众筹项目推荐；回复3：专题推荐]]></Content>
+</xml>
+2016-02-25 10:12:09
+
+REMOTE_ADDR:140.207.54.78Unknown IP
+2016-02-25 10:12:09QUERY_STRING:signature=f9a75e86df382d148c318dcbfa885655cedd74c8&timestamp=1456366400&nonce=2013988670
+2016-02-25 10:12:10T 
+start
+2016-02-25 10:12:10T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6Chjlog2T_rCpEKiaWYsspN_mE','烟花明媚','','text','你好，请问平台的头条接微店广告吗？若接，请速度联系qq 2140256696，微信s15110017694,电话15110017694先加qq发平台的二维码，最近5天头条阅读量低于1000的勿扰','','','','','6255046055099622774','','1456366330','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6Chjlog2T_rCpEKiaWYsspN_mE","CreateTime":"1456366399","MsgType":"text","Content":"\u4f60\u597d\uff0c\u8bf7\u95ee\u5e73\u53f0\u7684\u5934\u6761\u63a5\u5fae\u5e97\u5e7f\u544a\u5417\uff1f\u82e5\u63a5\uff0c\u8bf7\u901f\u5ea6\u8054\u7cfbqq 2140256696\uff0c\u5fae\u4fe1s15110017694,\u7535\u8bdd15110017694\u5148\u52a0qq\u53d1\u5e73\u53f0\u7684\u4e8c\u7ef4\u7801\uff0c\u6700\u8fd15\u5929\u5934\u6761\u9605\u8bfb\u91cf\u4f4e\u4e8e1000\u7684\u52ff\u6270","MsgId":"6255046055099622774"}')
+2016-02-25 10:12:10T 
+start
+2016-02-25 10:12:10T 
+INSERT INTO xlc_wechat_ding_msg (`openid`,`name`,`info`,`type`,`time`,`unionid`) VALUES ('ou6Chjlog2T_rCpEKiaWYsspN_mE','烟花明媚','你好，请问平台的头条接微店广告吗？若接，请速度联系qq 2140256696，微信s15110017694,电话15110017694先加qq发平台的二维码，最近5天头条阅读量低于1000的勿扰','0','1456366330','')
+2016-02-25 10:12:10T 
+<xml>
+    <ToUserName><![CDATA[ou6Chjlog2T_rCpEKiaWYsspN_mE]]></ToUserName>
+    <FromUserName><![CDATA[gh_b84f7287846f]]></FromUserName>
+    <CreateTime>1456366330</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[感谢关注新乐筹，祝您在2016年梦想成真！
+回复1：查看往期驻京办项目；回复2：精彩众筹项目推荐；回复3：专题推荐]]></Content>
+</xml>
+2016-02-25 16:47:03
+
+REMOTE_ADDR:140.207.54.77Unknown IP
+2016-02-25 16:47:03QUERY_STRING:signature=3068fcbfa8b2ce16181703c1090251a97eb5e355&timestamp=1456390093&nonce=1657356407
+2016-02-25 16:47:04T 
+start
+2016-02-25 16:47:04T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjvGNo7tMYOsHkK6hb101EYw','等待薰衣草','http://wx.qlogo.cn/mmopen/Q9HlgIfswe0ZjUegQTuPHxfrVuVOBicca0UgqV70Af19XC2JC5unpfhYeQiakzVicH1AIc8G4zERstejunyGKiaBAWbGcml352PM/0','unsubscribe','等待薰衣草取消关注了新乐筹','','','','','','','1456390024','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjvGNo7tMYOsHkK6hb101EYw","CreateTime":"1456390093","MsgType":"event","Event":"unsubscribe","EventKey":{}}')
+2016-02-25 16:47:04T 
+
+2016-02-25 18:05:14
+
+REMOTE_ADDR:140.207.54.79Unknown IP
+2016-02-25 18:05:14QUERY_STRING:signature=5d74e1cdee9b3109608090eaf2d2ef77afbe8432&timestamp=1456394785&nonce=236440619
+2016-02-25 18:05:15T 
+start
+2016-02-25 18:05:15T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjjnVgQ-v9DsFTeBmhHdDZwc','猪小妖','http://wx.qlogo.cn/mmopen/Q9HlgIfswe0PlZNpf2XOLMau7YgZ2ia4C9V9wdYsaRpMrHhcqNSJaJploEnhr9eOmzbSD3vdCyAr0W23YLJlCvngMZ7RYkfdI/0','VIEW','跳转到http://www.xinlechou.com/index.php?ctl=deals','','','','','','','1456394715','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjjnVgQ-v9DsFTeBmhHdDZwc","CreateTime":"1456394785","MsgType":"event","Event":"VIEW","EventKey":"http:\/\/www.xinlechou.com\/index.php?ctl=deals","MenuId":"401221480"}')
+2016-02-25 18:05:15T 
+
+2016-02-25 18:55:11
+
+REMOTE_ADDR:140.207.54.74Unknown IP
+2016-02-25 18:55:11QUERY_STRING:signature=2453dec39151da8e9c083ab6d42f2a2c7f5698e0&timestamp=1456397781&nonce=105777663
+2016-02-25 18:55:11T 
+start
+2016-02-25 18:55:11T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjqFALcyUN4e1lp_FGnnsdps','Amy Ge','http://wx.qlogo.cn/mmopen/Q3auHgzwzM77jRBk8NrsZBH8rHHldIxYXUOadlcHMGXNriarKBVuzaiaY5DJartbVHpNrrChgDenSTt9nlWCBWfQ/0','unsubscribe','Amy Ge取消关注了新乐筹','','','','','','','1456397711','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjqFALcyUN4e1lp_FGnnsdps","CreateTime":"1456397781","MsgType":"event","Event":"unsubscribe","EventKey":{}}')
+2016-02-25 18:55:11T 
+
+2016-02-25 19:17:57
+
+REMOTE_ADDR:140.207.54.80Unknown IP
+2016-02-25 19:17:57QUERY_STRING:signature=0594d00d630ec048db3760159a10991582d2a945&timestamp=1456399147&nonce=1311151730
+2016-02-25 19:17:57T 
+start
+2016-02-25 19:17:57T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6ChjioHPJAIg4ytaa51zb2tb60','','','MASSSENDJOBFINISH','','','','','','','','1456399077','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6ChjioHPJAIg4ytaa51zb2tb60","CreateTime":"1456399147","MsgType":"event","Event":"MASSSENDJOBFINISH","MsgID":"401339955","Status":"send success","TotalCount":"977","FilterCount":"977","SentCount":"977","ErrorCount":"0"}')
+2016-02-25 19:17:57T 
+
+2016-02-25 22:07:22
+
+REMOTE_ADDR:140.207.54.78Unknown IP
+2016-02-25 22:07:22QUERY_STRING:signature=7d0f74b451d06d15846d33ff45c1af3ab5a05639&timestamp=1456409312&nonce=290383676
+2016-02-25 22:07:23T 
+start
+2016-02-25 22:07:23T 
+INSERT INTO xlc_wechat_ding_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('ou6Chjtn_D4gemXBuzrGYrHw3TKE','张强','http://wx.qlogo.cn/mmopen/PiajxSqBRaEJ654EIJb4OXnNOKpOic8bVLMJY39qqusLu0FZsniaBbgToa24PeOUgzicibLeRGSLROBgdrY33P63Cyg/0','unsubscribe','张强取消关注了新乐筹','','','','','','','1456409243','','','','{"ToUserName":"gh_b84f7287846f","FromUserName":"ou6Chjtn_D4gemXBuzrGYrHw3TKE","CreateTime":"1456409312","MsgType":"event","Event":"unsubscribe","EventKey":{}}')
+2016-02-25 22:07:23T 
+
+2016-02-26 13:24:47
+
+REMOTE_ADDR:140.207.54.77Unknown IP
+2016-02-26 13:24:47QUERY_STRING:signature=f97f917567164849283d7a75456a7e2ca365a845&timestamp=1456464358&nonce=1825290736
+2016-02-26 13:24:48T 
+start
+2016-02-26 13:24:48T 
+INSERT INTO xlc_wechat_user_msg (`openid`,`nickname`,`headimgurl`,`msg_type`,`content_text`,`picurl_image`,`x_location`,`y_location`,`title`,`description`,`url_link`,`time`,`voice`,`video`,`shortvideo`,`remark`) VALUES ('oT3GMuIkt-g09f5YYFTIg7xPaHiI','隔壁老杨','http://wx.qlogo.cn/mmopen/wfibfxKCswZhCIXz4GZbV37e5xKxziajcKAdLZddiacGpmP7j2hQ4sPrIibd2Q9Q8Q9iaoLj0N5w3ibN5Uicz3Tz3JZq7icnL2GDFX1D/0','text','寻寻常常','','','','','6255466785802608671','','1456464288','','','','{"ToUserName":"gh_402a958dc563","FromUserName":"oT3GMuIkt-g09f5YYFTIg7xPaHiI","CreateTime":"1456464358","MsgType":"text","Content":"\u5bfb\u5bfb\u5e38\u5e38","MsgId":"6255466785802608671"}')
+2016-02-26 13:24:48T 
+start
+2016-02-26 13:24:48T 
+INSERT INTO xlc_wechat_msg (`openid`,`name`,`info`,`type`,`time`,`unionid`) VALUES ('oT3GMuIkt-g09f5YYFTIg7xPaHiI','隔壁老杨','寻寻常常','0','1456464288','oCj9huAIErUZzZPIkoRJtMk1eogQ')
+2016-02-26 13:24:48T 
+<xml>
+    <ToUserName><![CDATA[oT3GMuIkt-g09f5YYFTIg7xPaHiI]]></ToUserName>
+    <FromUserName><![CDATA[gh_402a958dc563]]></FromUserName>
+    <CreateTime>1456464288</CreateTime>
+    <MsgType><![CDATA[text]]></MsgType>
+    <Content><![CDATA[感谢关注新乐筹，祝您在2016年梦想成真！
+回复以下关键词，即可查询相应信息
+
+【1】往期驻京办活动
+【2】最新众筹项目推荐
+【3】精彩专题等你来
+
+点击菜单栏，会有更多惊喜！]]></Content>
+</xml>
