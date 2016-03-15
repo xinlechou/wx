@@ -155,9 +155,7 @@ class wechatCallbackapiTest
                             $insData['content_text'] = $user_list[0]['nickname'].'取消关注了新乐筹';
                         }
                         break;
-                    case 'TEMPLATESENDJOBFINISH'://模版消息结果
-                        $insData['content_text'] = '模版消息：'.$postObj->Status;
-                        break;
+
                 }
                 break;
             //普通消息

@@ -17,6 +17,9 @@ class wxUtil {
         if(isset($_GET['ding'])){
             wxConfig::setDing();
         }
+        if(isset($_GET['huan'])){
+            wxConfig::setHuan();
+        }
         $this->setConfig();
         if (isset($_GET['act'])) {
             $action = $_GET['act'];
@@ -24,15 +27,36 @@ class wxUtil {
         }
 
     }
+    /*******SEND_template_msg********/
+    /**
+     * 请求发送模版消息
+     * @param json
+     */
+    public static function sendTemplateMsg(){
+        $dataArr = $_POST['data'];
+        if($_POST['type']){
+            wxConfig::$_POST['type']();
+        }
+        $url = wxConfig::getSendTemplateUrl();
+        //Php5.4才支持JSON_UNESCAPED_UNICODE
+        $r = wxConfig::postCurl($dataArr,$url);
+        $obj = json_decode($r,true);
+        if($obj['errcode']=='40033') {
+            //不合法的请求字符，不能包含\uxxxx格式的字符
+            $data = wxConfig::json_encode($dataArr);
+            $r = wxConfig::postCurl($data,$url);
+        }
+        echo $r;exit;
+    }
     /*******MENU********/
     /**
      * 请求设置微信菜单
      * @param json
+     * p.s. //http://www.xinlechou.com/wxpay_web/wxUtil.php?act=setNav&ding=1
      */
     public function setNav(){
         $url = wxConfig::creatMenuUrl();
         $data = $this->getPostParam();
-//        print_r($data);
         if($data){
             //Php5.4才支持JSON_UNESCAPED_UNICODE
             $data = json_encode($data, JSON_UNESCAPED_UNICODE)?json_encode($data, JSON_UNESCAPED_UNICODE):wxConfig::json_encode($data);
@@ -85,11 +109,15 @@ class wxUtil {
             foreach($tmpNavData as $k=>$v){
                 $i=0;
                 foreach($tmpSubNavData as $subkey=>$subvalue){
-                    $tmp[$k]['name']=$v['title'];
-                    if($subvalue['nav_id']==$v['id']){
-                        $tmp[$k]['sub_button'][$i] = $this->filterSubNav($subvalue);
-                        $i++;
-                    }
+                    if($v['type']==2){
+                    	$tmp[$k] = $this->filterSubNav($v);
+                    }else{
+	                    $tmp[$k]['name']=$v['title'];
+	                    if($subvalue['nav_id']==$v['id']){
+	                        $tmp[$k]['sub_button'][$i] = $this->filterSubNav($subvalue);
+	                        $i++;
+	                    }
+	                  }
                 }
             }
         }else{
@@ -191,6 +219,7 @@ class wxUtil {
     public function autoWechatLoginHUAN(){
         wxLoginTools::cleanWxInfo();
         $wx_info=$this->getWechatUserInfo($_REQUEST['code']);
+//        print_r($wx_info);exit;
         $bindurl = '../?ctl=olduser&act=user_bind_mobile';//增加HUAN的回调地址;我知道这样不好，但是着急＝。＝
         es_session::set("wx_user_info",$wx_info);
         app_redirect($bindurl);

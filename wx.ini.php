@@ -3,7 +3,7 @@
  * wechat Config
  * @author: beibei.li@xinlechou.com
  */
-require '../system/common.php';
+include_once '../system/common.php';
 class wxConfig{
     /**
      * 微信接口前缀
@@ -42,6 +42,19 @@ class wxConfig{
             'APPID'=>'wx206777fafd7f9f84',
             'SECRET'=>'21a38d35b688687acf8a11751d2f9883',
             'TABLE_PREFIX'=>DB_PREFIX.'wechat_ding_'
+        );
+    }
+    /**
+     * 设置为订阅号配置
+     * @param array
+     */
+    public static function setHuan(){
+        $a = &wxConfig::config();
+        $a = array(
+            'TOKEN'=>'huan2016',
+            'APPID'=>'wxf952196d018405ff',
+            'SECRET'=>'bb71f661470edd7ccbe6ec62cc774a46',
+            'TABLE_PREFIX'=>DB_PREFIX.'wechat_huan_'
         );
     }
     /**
@@ -84,6 +97,13 @@ class wxConfig{
      */
     public static function getMenuUrl() {
         return wxConfig::$Interface_prefix."cgi-bin/menu/get?access_token=".wxConfig::getToken();
+    }
+    /**
+     * 发送模版消息接口
+     * @return string
+     */
+    public static function getSendTemplateUrl() {
+        return wxConfig::$Interface_prefix."cgi-bin/message/template/send?access_token=".wxConfig::getToken();
     }
     /**
      * 微信授权接口：
